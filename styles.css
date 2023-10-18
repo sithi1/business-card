@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo{
+    width: 180px;
+    height: 120px;
+    margin-top: 30px;
+}
+.txt{
+    padding-left: 10px;
+    text-align: center;
+}
+.card{
+    display:flex;
+    background-color: rgb(243, 234, 221);
+    justify-content: right;
+    width:550px;
+    padding: 20px;
+    border-bottom: 20px solid rgb(169, 184, 33);
+    margin: 0px auto;
+    text-align: center;
+}
+
